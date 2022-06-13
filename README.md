@@ -1,2 +1,2 @@
 # calculadora-JS
-Calculadora feita com HTLM, CSS e JAVASCRIPT
+Calculadora feita com HTLM e JAVASCRIPT
